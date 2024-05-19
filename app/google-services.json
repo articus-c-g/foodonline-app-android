@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089567199233",
+    "project_id": "foodonline-69a92",
+    "storage_bucket": "foodonline-69a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089567199233:android:a71d4a4344a2c43c9db000",
+        "android_client_info": {
+          "package_name": "ru.articus.foodonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089567199233-7jke999seb24su81vt27ggcho0l5rrc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6J7yh4oflQgsBaGfEoHT5WuL-CKTVZ0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089567199233-7jke999seb24su81vt27ggcho0l5rrc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
